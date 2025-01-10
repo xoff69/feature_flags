@@ -20,7 +20,6 @@
   },
   {
     "id": 21,
-
     "project": "Payment",
     "name": "TapOnPay",
     "allowedIds": [
@@ -40,7 +39,6 @@
   {
     "id": 5,
     "name": "Remove bugs",
-
     "project": "Commerce",
     "allowedIds": "",
     "forbiddenIds": "",
@@ -59,11 +57,19 @@
   {
     "id": 8,
     "name": "no HSSO",
-
     "project": "Commerce",
     "allowedIds": "s1212121",
     "forbiddenIds": "",
     "environment": "dev",
     "active": true
+  },
+  {
+    "id": 0,
+    "name": "xcxccx",
+    "allowedIds": "1",
+    "forbiddenIds": "2",
+    "environment": "dev",
+    "active": true,
+    "project": "xcxc"
   }
 ]
